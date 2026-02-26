@@ -1,4 +1,4 @@
-# Calculadora Interactiva con ANTLR v4 🧮
+# Calculadora Interactiva con ANTLR v4 
 
 Este proyecto es una implementación de una calculadora y evaluador de expresiones matemáticas utilizando **ANTLR v4** y el patrón de diseño **Visitor** en Java. Se basa en el ejercicio del Capítulo 4.2 del libro *"The Definitive ANTLR 4 Reference"*.
 
@@ -16,7 +16,7 @@ Este proyecto es una implementación de una calculadora y evaluador de expresion
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 Para compilar y ejecutar este proyecto desde cero en una terminal (Linux/Mac), sigue estos pasos:
 
